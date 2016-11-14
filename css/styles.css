@@ -517,7 +517,7 @@ a.icon:hover i {
 }
 
 .success-message:before {
-	content: "\f00c";
+	content: "\f207";
 }
 
 .error-message {
@@ -979,8 +979,8 @@ header {
 }
 
 .single-project img {
-	width: 600px;
-	height: 600px;
+	min-width: 500px;
+	min-height: 500px;
 }
 
 .single-project:hover img {
